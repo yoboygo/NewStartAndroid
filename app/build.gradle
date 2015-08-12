@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.0 rc3"
 
     defaultConfig {
-        applicationId "com.muder.aimy.newstartandroid"
+        applicationId "com.muder.aimy"
         minSdkVersion 15
         targetSdkVersion 22
         versionCode 1
